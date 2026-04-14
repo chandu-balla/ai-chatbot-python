@@ -23,3 +23,13 @@ This is a simple AI chatbot built using Python. It responds to user queries like
 - Functions
 - Loops
 - Conditional statements
+
+## Example Output
+You: hello
+AI: Hi!
+
+You: time
+AI: Current time is 10:30
+
+You: open youtube
+AI: Opening YouTube...
