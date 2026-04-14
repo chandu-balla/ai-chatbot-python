@@ -1,25 +1,25 @@
 # AI Chatbot Assistant (Python)
 
-## 📌 Description
+##  Description
 This is a simple AI chatbot built using Python. It responds to user queries like greetings, time, and opening websites.
 
-## 🚀 Features
+##  Features
 - Responds to greetings
 - Shows current time
 - Opens YouTube and Google
 - Handles user input using conditions
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - datetime module
 - webbrowser module
 
-## ▶️ How to Run
+##  How to Run
 1. Install Python
 2. Run the file:
    python chatbot.py
 
-## 📚 Concepts Used
+##  Concepts Used
 - Functions
 - Loops
 - Conditional statements
